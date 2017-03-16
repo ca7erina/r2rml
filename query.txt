@@ -1,0 +1,11 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ob: <https://www.w3.org/ns/ssn/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?subject ?predicate ?object
+WHERE {
+  ?subject rdf:type ob:Observation.
+  
+  ?subject <http://data.example.com/plugwise/#date> ?object.
+  
+}
+LIMIT 125
