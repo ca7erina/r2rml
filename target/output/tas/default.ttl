@@ -1,0 +1,839 @@
+<http://data.example.com/tas/57>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "08:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/29>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "04:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/2>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "01:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/98>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "01:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/106>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "09:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/10>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "09:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/119>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "22:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/51>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "02:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/23>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "22:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/92>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "19:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/64>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "15:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/36>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "11:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/100>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "03:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/77>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "04:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/49>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/113>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "16:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/7>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "06:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/30>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "05:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/71>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "22:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/43>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "18:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/15>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "14:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/84>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "11:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/56>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "07:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/120>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "23:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/28>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "03:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/1>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/97>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/69>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "20:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/105>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "08:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/118>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "21:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/50>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "01:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/22>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "21:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/91>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "18:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/63>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "14:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/35>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "10:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/76>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "03:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/48>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "23:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/112>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "15:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/89>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "16:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/6>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "05:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/70>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "21:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/42>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "17:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/14>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "13:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/83>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "10:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/55>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "06:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/27>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "02:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/96>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "23:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/68>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "19:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/104>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "07:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/117>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "20:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/21>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "20:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/90>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "17:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/62>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "13:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/34>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "09:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/75>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "02:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/47>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "22:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/111>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "14:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/19>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "18:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/88>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "15:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/5>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "04:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/109>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "12:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/41>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "16:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/13>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "12:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/82>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "09:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/54>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "05:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/26>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "01:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/95>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "22:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/67>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "18:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/39>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "14:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/103>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "06:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/116>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "19:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/20>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "19:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/61>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "12:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/33>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "08:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/74>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "01:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/46>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "21:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/110>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "13:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/18>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "17:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/87>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "14:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/59>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "10:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/4>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "03:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/108>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "11:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/40>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "15:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/12>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "11:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/81>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "08:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/53>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "04:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/25>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/94>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "21:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/66>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "17:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/38>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "13:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/102>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "05:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/79>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "06:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/115>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "18:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/60>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "11:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/9>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "08:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/32>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "07:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/73>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "00:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/45>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "20:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/17>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "16:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/86>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "13:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/58>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "09:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/3>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "02:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/99>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "02:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/107>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "10:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/11>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "10:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/80>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "07:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/52>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "03:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/24>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "23:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/93>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "20:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/65>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "16:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/37>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "12:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/101>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "04:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/78>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "05:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/114>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "24/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "17:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/8>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "07:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/31>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "06:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/72>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "22/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "23:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/44>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "21/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "19:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/16>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "20/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "15:00"^^<http://www.w3.org/2001/XMLSchema#time> .
+
+<http://data.example.com/tas/85>
+        a       <https://www.w3.org/ns/ssn/Observation> ;
+        <http://data.example.com/plugwise/#date>
+                "23/08/2012"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        <http://data.example.com/plugwise/#time>
+                "12:00"^^<http://www.w3.org/2001/XMLSchema#time> .

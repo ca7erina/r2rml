@@ -1,0 +1,21 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix ex: <http://data.example.com/plugwise/#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ssn: <https://www.w3.org/ns/ssn/>.
+<#TriplesMap1>
+    rr:logicalTable [ rr:tableName "forum_room2_TAS" ];
+    rr:subjectMap [
+        rr:template "http://data.example.com/tas/{ID}";
+        rr:class ssn:Observation;
+    ]; 
+    rr:predicateObjectMap [
+        rr:predicate ex:date;
+        rr:objectMap [ rr:column "DATE"; rr:datatype xsd:date ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:time;
+        rr:objectMap [ rr:column "TIME"; rr:datatype xsd:time ];
+    ];
+.
+
