@@ -1,0 +1,44 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix ex: <http://data.example.com/plugwise#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssn: <http://www.w3.org/ns/ssn/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+
+<#TriplesMap1>
+    rr:logicalTable [ rr:sqlQuery "SELECT *, FORMATDATETIME(PARSEDATETIME(DATE,'dd/MM/yyy'), 'yyyy-MM-dd') AS DATE2 FROM forum_room2_plugwise;" ];
+    rr:subjectMap [
+        rr:template "http://data.example.com/plugwise/{ID}";
+        rr:class ssn:Observation;
+    ]; 
+    rr:predicateObjectMap [
+        rr:predicate dcterms:date;
+        rr:objectMap [ rr:column "DATE2"; rr:datatype xsd:date ;  ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:day;
+        rr:objectMap [ rr:column "DAY" ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate dcterms:time;
+        rr:objectMap [ rr:column "TIME"; rr:datatype xsd:time ;  ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:name;
+        rr:objectMap [ rr:column "NAME" ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:room_number;
+        rr:objectMap [ rr:column "ROOM" ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:type;
+        rr:objectMap [ rr:column "TYPE" ];
+    ];    
+    rr:predicateObjectMap [
+        rr:predicate ssn:observationResult;
+        rr:objectMap [ rr:column "KWH" ];
+    ]
+.
+
+	

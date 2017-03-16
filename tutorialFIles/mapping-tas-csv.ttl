@@ -1,0 +1,39 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix ex: <http://data.example.com/tas#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+
+<#TriplesMap1>
+    rr:logicalTable [ rr:sqlQuery "SELECT *, FORMATDATETIME(PARSEDATETIME(DATE,'dd/MM/yyy'), 'yyyy-MM-dd') AS DATE2 FROM forum_room2_TAS;" ];
+    rr:subjectMap [
+        rr:template "http://data.example.com/tas/{ID}";
+        rr:class ex:Tas_Simulated_Value;
+    ]; 
+    rr:predicateObjectMap [
+        rr:predicate dcterms:date;
+        rr:objectMap [ rr:column "DATE2"; rr:datatype xsd:date ;  ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:day;
+        rr:objectMap [ rr:column "DAY" ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate dcterms:time;
+        rr:objectMap [ rr:column "TIME"; rr:datatype xsd:time ;  ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:light100;
+        rr:objectMap [ rr:column "R2LIGHT100" ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:lightoccupancy;
+        rr:objectMap [ rr:column "R2LIGHTOCCUPANCY" ];
+    ];
+    rr:predicateObjectMap [
+        rr:predicate ex:lightautodimming;
+        rr:objectMap [ rr:column "R2LIGHTAUTODIMMING" ];
+    ]    
+.
+
+	
